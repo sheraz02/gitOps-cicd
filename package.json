@@ -1,0 +1,20 @@
+{
+  "name": "gitops-cicd",
+  "version": "1.0.0",
+  "description": "gitOps practice project",
+  "homepage": "https://github.com/sheraz02/gitOps-cicd#readme",
+  "bugs": {
+    "url": "https://github.com/sheraz02/gitOps-cicd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheraz02/gitOps-cicd.git"
+  },
+  "license": "ISC",
+  "author": "Sheraz Ahmad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
