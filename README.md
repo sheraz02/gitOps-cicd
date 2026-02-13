@@ -18,3 +18,4 @@ The architecture includes:
 
 ## 🏗 Architecture Overview
 
+<img width="1705" height="857" alt="architecture-diagram" src="https://github.com/user-attachments/assets/96a9d999-4245-47d4-b070-18217cbecacb" />
